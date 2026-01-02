@@ -15,7 +15,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="" alt="Image Example" width="800px">
+    <img src="./imagens/foto-do-projeto.jpg" alt="foto do projeto" width="800px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
